@@ -1,3 +1,20 @@
+# PRÁCTICA 3 
+
+- [Enunciado](-/enunciado.pdf)
+
+## Nota de la defensa: 4/4
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+
+# HOW TO
+
+
 # 1. Tomando como base de trabajo el SSH pruebe sus diversas utilidades:
 
 ## a) Abra un shell remoto sobre SSH y analice el proceso que se realiza. Configure su fichero ssh_known_hosts para dar soporte a la clave pública del servidor

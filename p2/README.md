@@ -1,5 +1,19 @@
 # PRÁCTICA 2 
 
+- [Enunciado](-/enunciado.pdf)
+
+## Nota de la defensa: 3.75/4
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+
+# HOW TO
+
 ## Apartado A
 
 ```bash
@@ -318,8 +332,6 @@ $ a2enmod security2
 
 
 ```
-
-PROBAR
 
 ```bash
 $ slowhttptest -c 1000 -g -X -o slow_read_stats -r 200 -w 512 -y 1024 -n 5 -z 12 -k 3 -u http://10.11.48.70 -p 3
