@@ -1,3 +1,6 @@
-#LSI Práctica 1
+# LSI Práctica 1
 
-Nota de la defensa: 3.25
+- [Enunciado](-/enunciado.pdf)
+- [HowTo defensa](-/defensa.pdf)
+
+## Nota de la defensa: 3.25/4
