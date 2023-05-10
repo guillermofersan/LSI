@@ -17,7 +17,7 @@
 
 # 1. Tomando como base de trabajo el SSH pruebe sus diversas utilidades:
 
-## a) Abra un shell remoto sobre SSH y analice el proceso que se realiza. Configure su fichero ssh_known_hosts para dar soporte a la clave pública del servidor
+## a. Abra un shell remoto sobre SSH y analice el proceso que se realiza. Configure su fichero ssh_known_hosts para dar soporte a la clave pública del servidor
 
 ```bash
 lsi@debian:~$ ssh -v lsi@10.11.48.69
@@ -57,7 +57,7 @@ lsi@debian:~$ touch /etc/ssh/ssh_known_hosts
 lsi@debian:~$ ssh-keyscan 10.11.48.70 >> /etc/ssh/ssh_known_hosts 
 ```
 
-## ?? - b. Haga una copia remota de un fichero utilizando un algoritmo de cifrado determinado. Analice el proceso que se realiza.
+## b. Haga una copia remota de un fichero utilizando un algoritmo de cifrado determinado. Analice el proceso que se realiza.
 
 Comando scp. copy seguro. Abre una conexión ssh para copiar ficheros de un lado al otro.
 
